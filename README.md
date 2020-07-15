@@ -2,6 +2,10 @@
 
 This sketch simulates a thermometer using a Temperature sensor and a 4 digit seven segment display.
 
-### Circuit
+## Circuit
 
 <img src="circuit.png" alt="circuit">
+
+## Imprtant notes
+
+If you change the the pin connection remember to change them in the sketch too!

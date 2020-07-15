@@ -4,4 +4,4 @@ This sketch simulates a thermometer using a Temperature sensor and a 4 digit sev
 
 ### Circuit
 ```
-![circuit](/circuit.png)]
+![circuit](/circuit.png)

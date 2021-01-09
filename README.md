@@ -12,4 +12,4 @@ The **libraries** used are:
 
 ## Imprtant notes
 
-If you change the the pin connection remember to change them in the sketch too!
+If you change the pin connection remember to change them in the sketch too!

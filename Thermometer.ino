@@ -22,7 +22,7 @@ void setup() {
   // INSERT THE PINS CONNECTED TO THE DIGITS.
   byte digitPins[] = {10, 11, 12, 13};
 
-  // INSERT THE PISN CONNECTED TO THE SEGMENTS.
+  // INSERT THE PINS CONNECTED TO THE SEGMENTS.
   byte segmentPins[] = {9, 2, 3, 5, 6, 8, 7, 4};
   bool resistorsOnSegments = false;
 
